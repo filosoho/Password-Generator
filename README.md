@@ -9,12 +9,12 @@ The generated password is a combination of letters, symbols, and numbers that ar
 Clone this repository or download:
 
 ~~~
-password_generator.py file
+main.py 
 ~~~
 
 Open:
 ~~~
-password_generator.py file
+main.py
 ~~~
 in your Python environment.
 
